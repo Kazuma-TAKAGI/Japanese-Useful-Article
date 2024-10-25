@@ -14,3 +14,7 @@ https://qiita.com/kazuki43zoo/items/757b557c05f548c6c5db
 
 ## Spring BootのAutoConfigureの仕組みを理解する
 https://qiita.com/kazuki43zoo/items/8645d9765edd11c6f1dd
+
+気になる技術関連のニュースを記載しています。
+# Microsoft、複雑なインフラ環境におけるリアルタイムイベント処理を最適化する「Drasi」をオープンソースで公開
+https://atmarkit.itmedia.co.jp/ait/articles/2410/23/news080.html
